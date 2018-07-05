@@ -1,0 +1,114 @@
+Fala Simultaneo 2
+
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.814, 
+               "transcript": "a é qual é o significado da virgin "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.632, 
+               "transcript": "chefe fe "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.804, 
+               "transcript": "o significado da "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+
+Fala Simultaneo 1 
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.745, 
+               "transcript": "a r m a superdosagem "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}{
+   "results": [], 
+   "result_index": 0
+
+Fala Separado 1
+
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.737, 
+               "transcript": "raio vê esse é o trecho doze "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.473, 
+               "transcript": "raio e esse é o trecho doze "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+
+Fala Separado 2
+
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.876, 
+               "transcript": "a é como se o passatempo preferido "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.423, 
+               "transcript": "haia como seu passatempo preferido "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+

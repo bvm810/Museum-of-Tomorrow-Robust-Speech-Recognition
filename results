@@ -1,5 +1,5 @@
 Fala Simultaneo 2
-
+Pré processamento
 {
    "results": [
       {
@@ -13,7 +13,9 @@ Fala Simultaneo 2
       }
    ], 
    "result_index": 0
-}{
+}
+Pós Processamento
+{
    "results": [
       {
          "alternatives": [
@@ -36,7 +38,8 @@ Fala Simultaneo 2
    ], 
    "result_index": 0
 
-Fala Simultaneo 1 
+Fala Simultaneo 1
+Pré Processamento
 {
    "results": [
       {
@@ -50,12 +53,14 @@ Fala Simultaneo 1
       }
    ], 
    "result_index": 0
-}{
+}
+Pós Processamento
+{
    "results": [], 
    "result_index": 0
 
 Fala Separado 1
-
+Pré Processamento
 {
    "results": [
       {
@@ -69,7 +74,9 @@ Fala Separado 1
       }
    ], 
    "result_index": 0
-}{
+}
+Pós processamento
+{
    "results": [
       {
          "alternatives": [
@@ -84,7 +91,7 @@ Fala Separado 1
    "result_index": 0
 
 Fala Separado 2
-
+Pré Processamento
 {
    "results": [
       {
@@ -98,7 +105,9 @@ Fala Separado 2
       }
    ], 
    "result_index": 0
-}{
+}
+Pós Processamento
+{
    "results": [
       {
          "alternatives": [
